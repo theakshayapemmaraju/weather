@@ -10,7 +10,7 @@ As a pet-lover and a new app developer, I thought it would be fun to combine bot
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/Screenshot 2021-03-24 at 12.44.59 PM.png" width="260">&emsp;<img src="/results/Screenshot 2021-03-24 at 12.45.09 PM.png" width="260">
 
 ## License
 ```
