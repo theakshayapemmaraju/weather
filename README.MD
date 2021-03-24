@@ -8,6 +8,9 @@ This weather app is pet-themed! The user can always choose the app’s theme to 
 ## :bulb: Motivation and Context
 As a pet-lover and a new app developer, I thought it would be fun to combine both and make an app with a pet theme! I've had this idea for a while and this seemed like the perfect opportunity as I also got to learn about Jetpack Compose. Since everyone has their own preference, I made the app customisable, so that the user can choose their weather app's theme pet (cat/ dog) and they can always switch to the other one if they change their mind.
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
 ```
